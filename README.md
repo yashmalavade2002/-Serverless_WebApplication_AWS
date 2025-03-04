@@ -90,4 +90,4 @@ curl -X GET https://<api-gateway-url>/items/1
 ```
 
 ## ☁️📸 Architecture Diagram  
-![Architecture Diagram](path/to/architecture-diagram.png) 
+![Architecture Diagram](https://github.com/yashmalavade2002/Serverless_WebApplication_AWS/blob/a24c8e5b46d26c49beca2ede4c9310340c709174/Architecture.png) 
